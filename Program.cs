@@ -216,7 +216,7 @@ public class Board
         // Check if the new position is within the bounds of the board
         if (newX < 0 || newX >= 6 || newY < 0 || newY >= 6)
         {
-            Console.WriteLine("Cannot move outside the board.");
+            Console.WriteLine("Can not move outside the board.");
             return; // Exit the method if the move is outside the board
         }
 
