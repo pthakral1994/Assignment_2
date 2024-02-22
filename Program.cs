@@ -272,7 +272,7 @@ public class Game
             }
             else
             {
-                Console.WriteLine("Invalid move!");
+                Console.WriteLine("Wrong move!");
             }
         }
 
