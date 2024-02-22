@@ -230,7 +230,7 @@ public class Board
         else if (currentCell.Occupant == "O")
         {
             // If the current cell contains an obstacle, inform the player
-            Console.WriteLine("Cannot collect gem. Obstacle in the way.");
+            Console.WriteLine("Can not collect gem. Obstacle in the way.");
         }
     }
 }
