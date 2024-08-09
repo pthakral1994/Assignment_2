@@ -23,16 +23,34 @@
 ## configure.ts by that we can manages configuration settings.
 ## PersistenceService.ts by that we can handles database operations
 
---Creation of table
+# --Creation of table
+
 we create auther.ts file
+we create publishers.ts file
+We create books.ts file
+We create customer.ts file
+We create orders.ts file
+We create order_item.ts file
+We create review.ts file
 
+# -- creation of RestAPI
 
--- creation of RestAPI
 We create autherAPI.ts file
+we create publishersAPI.ts file
+We create booksAPI.ts file
+We create customerAPI.ts file
+We create ordersAPI.ts file
+We create order_itemAPI.ts file
+We create reviewAPI.ts file
 
-
--- Creation of file for unit test
+# -- Creation of file for unit test
 We create autherAPI.test.ts
+we create publishersAPI.test.ts file
+We create booksAPI.test.ts file
+We create customerAPI.test.ts file
+We create ordersAPI.test.ts file
+We create order_itemAPI.test.ts file
+We create reviewAPI.test.ts file
 
 
 -- Creation of files for integration test
