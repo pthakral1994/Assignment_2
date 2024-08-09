@@ -1,6 +1,6 @@
 Video link: https://youtu.be/1utX6W70Xow
 
-##### programme: Database Testing [SENG8075]
+#### programme: Database Testing [SENG8075]
 
 ### Section:3
 
@@ -20,10 +20,10 @@ Video link: https://youtu.be/1utX6W70Xow
 
 -- Creation of Typescript, restfulAPI, Unit test and integration test is done by Akida Laliwala.
 
-## server.ts  by that we can know that our port is running
-## index.ts
-## configure.ts
-## PersistenceService.ts
+## server.ts by that we can know that our port is running
+## index.ts by that we can know the entry point of the application
+## configure.ts by that we can manages configuration settings.
+## PersistenceService.ts by that we can handles database operations
 
 --Creation of table
 we create auther.ts file
